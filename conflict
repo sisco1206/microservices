@@ -1,1 +1,5 @@
-conflict3
+def my_function(name):
+    print("Good morning " + " name ")
+
+my_function("Francis")    
+
