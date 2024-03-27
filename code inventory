@@ -1,1 +1,4 @@
-code review2 and push
+dif home():
+    return door * 2
+    
+ home(4)  
