@@ -1,1 +1,3 @@
-Code refactured 4
+dif home():
+    return door * 2
+  
